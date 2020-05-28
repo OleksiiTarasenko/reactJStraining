@@ -1,2 +1,0 @@
-# reactJStraining
-Created with CodeSandbox
